@@ -1,10 +1,6 @@
 # 6
 # Выполнила: 
 Зарембо Аня, Фт-220008.
-# Задание: 
-Написать программу, реализующую метод анализа иерархий Томаса Саати для одного уровня. Входные данные: количество соответствующих данных, данные попарного сравнения (запросить попарно).
-Выходные данные: 
- коэффициенты в видео 0.00
 # Проект можно открыть в:
 Visual Studi
 Atom
@@ -13,10 +9,11 @@ PyCharm
 Вам следует открыть файл ТомасСаати.py . 
 # Как работает программа:
 ## Вводим
-Затем нужно ввести количество критериев, их названия, данные попарного сравнения критериев.
-В итоге программа выведет весовые коэффициенты
+Нужно ввести модель оценивания, количество критериев и их названия.
+Далее нужно ввести отношение между критериями.
+В итоге программа выведет весовые коэффициенты.
 # Тесты:
-![тесты](https://sun9-72.userapi.com/impf/lduivTwOx9ge177xt8NJAfEFMyBHLphZcAMKZQ/-sOD8nucrfA.jpg?size=933x441&quality=96&sign=b3c7f7c2728b8faa2f1dc28566ffcdea&type=album)
-![тесты](https://sun9-13.userapi.com/impf/5BKHvAUWh6DGqx1GFyIC45a455JE9jvFmxY_vw/SDPlsDRG87w.jpg?size=1000x152&quality=96&sign=62bce91176af6ccc122daafe443e2afe&type=album)
-![тесты](https://sun9-68.userapi.com/impf/Jdl1B-19BpCwt3ZFwG_5IbE0o94-N5lYiM-tKw/-dF2HYRfvts.jpg?size=602x212&quality=96&sign=54c5c11a3d7802cf0c3d1294e18c49c7&type=album)
+![тесты](https://sun9-3.userapi.com/impf/OlD3U1Wpx65laSXdrtCXJp43jr8L39AXXPn_Hg/UIt_Zzz1aDA.jpg?size=531x333&quality=96&sign=0bca992f70dbc2a8114aff0551137279&type=album)
+![тесты](https://sun9-65.userapi.com/impf/96-VBk7bxk90lbII4MSyWaIQp8Xgcr2_XHYt0Q/kNfKiiYwAOU.jpg?size=630x444&quality=96&sign=08ffa6bf4e2ca842903ca83b1ca151ac&type=album)
+![тесты](https://sun9-36.userapi.com/impf/EXQ0KF_R7cNNEpM9O6WvZfCTNbjKjt_uPhrr7Q/xcCO2IGElZI.jpg?size=942x558&quality=96&sign=db6e86e55a68d9c322e79a74e9416206&type=album)
 
